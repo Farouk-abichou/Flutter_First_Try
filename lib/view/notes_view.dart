@@ -1,6 +1,5 @@
 
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutterapp2/view/widgets/add_note_bottom_sheet.dart';
 import 'package:flutterapp2/view/widgets/notes_view_body.dart';
